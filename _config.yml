@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 汤泡饭的那些事儿
 subtitle: ''
-description: ''
+description: '欢迎来到汤泡饭的Blog'
 keywords:
-author: John Doe
-language: en
+author: 汤泡饭
+language: zh
 timezone: ''
 
 # URL
