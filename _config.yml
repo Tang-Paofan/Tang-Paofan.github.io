@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 汤泡饭的那些事儿
+title: '汤泡饭的那些事儿'
 subtitle: ''
 description: '欢迎来到汤泡饭的Blog'
 keywords:
 author: 汤泡饭
-language: zh-CN
+language: 'zh'
 timezone: ''
 
 # URL
