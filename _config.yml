@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: '汤泡饭的那些事儿'
+title: 汤泡饭的那些事儿
 subtitle: ''
-description: '欢迎来到汤泡饭的Blog'
+description: 欢迎来到汤泡饭的Blog
 keywords:
 author: 汤泡饭
-language: 'zh'
+language: zh-CN
 timezone: ''
 
 # URL
@@ -40,7 +40,10 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js

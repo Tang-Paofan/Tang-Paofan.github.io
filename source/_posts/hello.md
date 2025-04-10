@@ -2,6 +2,7 @@
 title: hello
 date: 2025-04-10 20:15:06
 tags:
+comments: true
 ---
 
 ## title
