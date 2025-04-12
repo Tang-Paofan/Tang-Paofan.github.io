@@ -46,7 +46,7 @@ $$\vec{a} \cdot \vec{b}=\begin{pmatrix} x_a \\ y_a \\ \end{pmatrix} \cdot \begin
 $$\vec{a} \cdot \vec{b}=\begin{pmatrix} x_a \\ y_a \\ z_a \end{pmatrix} \cdot \begin{pmatrix} x_b \\ y_b \\ z_b \end{pmatrix} = x_ax_b + y_ay_b + z_az_b$$
 
 ### 点乘在图形学中应用
-1. 向量投影![](./02%20Review%20of%20Linear%20Algebra/Pasted%20image%2020250112113614.png)
+1. 向量投影![](Pasted%20image%2020250112113614.png)
 2. 分解向量（计算投影后可根据平行四边形法则得到垂直向量）![](./02%20Review%20of%20Linear%20Algebra/Pasted%20image%2020250112113625.png)
 3. 计算两个向量是**同向还是反向**![](./02%20Review%20of%20Linear%20Algebra/Pasted%20image%2020250112113701.png)
 ## 叉乘（Cross）
