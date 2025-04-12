@@ -41,7 +41,7 @@ $$(k\vec{a})\cdot \vec{b}= \vec{a} \cdot (k\vec{b}) = k{\vec{a} \cdot \vec{b}}$$
 
 ### 点乘-笛卡尔坐标系
 二维
-$$\vec{a} \cdot \vec{b}=\begin{pmatrix} x_a \\ y_a \\ \end{pmatrix} \cdot \begin{pmatrix} x_b \\ y_b \\\end{pmatrix} = x_ax_b + y_ay_b$$
+$$\vec{a} \cdot \vec{b}=\begin{pmatrix} x_a \\ y_a \\ \end{pmatrix} \cdot \begin{pmatrix} x_b \\ y_b \\ \end{pmatrix} = x_ax_b + y_ay_b$$
 三维
 $$\vec{a} \cdot \vec{b}=\begin{pmatrix} x_a \\ y_a \\ z_a \end{pmatrix} \cdot \begin{pmatrix} x_b \\ y_b \\ z_b \end{pmatrix} = x_ax_b + y_ay_b + z_az_b$$
 
