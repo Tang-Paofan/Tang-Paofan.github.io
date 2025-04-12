@@ -1,12 +1,15 @@
 ---
 title: C++特性
+tags:
+  - 芝士
+categories:
+  - C++
+abbrlink: 6123c2d1
 date: 2025-04-12 23:02:31
-tags: 
- - 芝士
-categories: 
- - C++
- - C++特性
 ---
+
+记录C++特性，持续更新
+<!-- less -->
 
 ## C++11
 ### 语言核心
