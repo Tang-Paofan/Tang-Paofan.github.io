@@ -9,7 +9,7 @@ abbrlink: d597840a
 date: 2025-04-12 23:23:23
 ---
 
-Games 101 笔记
+Games 101 笔记 02 Review of Linear Algebra
 <!-- less -->
 
 ## 概述
