@@ -1,6 +1,6 @@
 ---
 title: 03 Transformation
-mathjax: false
+mathjax: true
 abbrlink: 4e658e2f
 date: 2025-04-17 23:05:40
 tags: Games 101
@@ -23,8 +23,8 @@ Games 101 笔记 03 Transformation
 
 ## 二维线性变换
 **Scale（缩放）=>**
-$$x^,=sx$$
-$$y^,=sy$$
+$$ x^,=sx $$
+$$ y^,=sy $$
 **缩放矩阵=>**
 $$\begin{bmatrix} x^, \\ y^, \end{bmatrix} = \begin{bmatrix} s & 0 \\ 0 & s\\ \end{bmatrix} \begin{bmatrix} x \\ y \end{bmatrix}$$
 **翻转矩阵=>**
