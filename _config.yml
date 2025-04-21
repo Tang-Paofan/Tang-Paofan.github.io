@@ -125,3 +125,8 @@ symbols_count_time:
   exclude_codeblock: false
   wpm: 275
   suffix: "mins."
+
+# Plugin
+# hexo-generator-sitemap
+sitemap:
+    path: sitemap.xml
