@@ -2,7 +2,7 @@
 title: 02 Review of Linear Algebra
 mathjax: true
 tags:
-  - games 101
+  - Games 101
 categories:
   - 图形学
 abbrlink: d597840a
