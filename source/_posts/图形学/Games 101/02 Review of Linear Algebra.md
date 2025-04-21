@@ -46,9 +46,9 @@ $$\vec{a} \cdot \vec{b}=\begin{pmatrix} x_a \\ y_a \\ \end{pmatrix} \cdot \begin
 $$\vec{a} \cdot \vec{b}=\begin{pmatrix} x_a \\ y_a \\ z_a \end{pmatrix} \cdot \begin{pmatrix} x_b \\ y_b \\ z_b \end{pmatrix} = x_ax_b + y_ay_b + z_az_b$$
 
 ### 点乘在图形学中应用
-1. 向量投影![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250112113614.png)
-2. 分解向量（计算投影后可根据平行四边形法则得到垂直向量）![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250112113625.png)
-3. 计算两个向量是**同向还是反向**![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250112113701.png)
+1. 向量投影![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250112113614.png)
+2. 分解向量（计算投影后可根据平行四边形法则得到垂直向量）![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250112113625.png)
+3. 计算两个向量是**同向还是反向**![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250112113701.png)
 ## 叉乘（Cross）
 1. 结果为一个向量
 2. 叉积向量与初始向量正交
@@ -85,9 +85,9 @@ $$\vec{a} \times \vec{b} = A^*b
 \end{pmatrix}$$
 
 ### 叉乘在图形学中应用
-1. 判断向量在左还是右（相对而言）![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250112172643.png)
-2. 判断向量在内还是外，判断p点在三角形内![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250112172701.png)
-3. ![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250112172916.png)
+1. 判断向量在左还是右（相对而言）![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250112172643.png)
+2. 判断向量在内还是外，判断p点在三角形内![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250112172701.png)
+3. ![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250112172916.png)
 ## 矩阵
 ### 属性
 1. 矩阵往往没有交换律
@@ -98,6 +98,6 @@ $$\vec{a} \times \vec{b} = A^*b
 ### 矩阵转置
 $$(AB)^T=B^TA^T$$
 ### 逆矩阵
-![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250112173256.png)
+![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250112173256.png)
 ### 向量形式乘法
-![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250112173402.png)
+![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250112173402.png)

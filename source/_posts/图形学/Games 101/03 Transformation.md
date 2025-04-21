@@ -30,11 +30,11 @@ $$\begin{bmatrix} x^, \\ y^, \end{bmatrix} = \begin{bmatrix} s & 0 \\ 0 & s\\ \e
 **翻转矩阵=>**
 $$\begin{bmatrix} x^, \\ y^, \end{bmatrix} = \begin{bmatrix} -1 & 0 \\ 0 & 1\\ \end{bmatrix} \begin{bmatrix} x \\ y \end{bmatrix}$$
 **错切矩阵=>**
-![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250116235703.png)
+![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250116235703.png)
 **旋转矩阵=>**
-![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250116235735.png)
+![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250116235735.png)
 推导：
-![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/微信图片_20250117000234.jpg)
+![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/微信图片_20250117000234.jpg)
 ### 线性变换 Linear Transforms
 $$\begin{bmatrix} x^, \\ y^, \end{bmatrix} = \begin{bmatrix} a & b \\ c & d\\ \end{bmatrix} \begin{bmatrix} x \\ y \end{bmatrix}$$
 ## 二维平移变换
@@ -49,7 +49,7 @@ $$\begin{bmatrix} x^, \\ y^, \end{bmatrix}=\begin{bmatrix} x \\ y \end{bmatrix} 
 规定
 2D point = $(x, y, 1)^T$
 2D vector = $(x, y, 0)^T$
-![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250117001413.png)
+![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250117001413.png)
 1. 为什么2D point 齐次坐标最后是1
     1. 其实更加通用的形式为$(x, y, w)^T = (x/w, y/w, 1)^T$
 2. 为什么2D vector齐次坐标最后是0
@@ -70,14 +70,14 @@ $$\begin{bmatrix} x^, \\ y^, \end{bmatrix}=\begin{bmatrix} a & b \\ c & d\\  \en
 $$\begin{bmatrix} x^, \\ y^, \\ 1 \end{bmatrix}=\begin{bmatrix} a & b & t_x \\ c & d & t_y\\ 0 & 0 & 1\\ \end{bmatrix} \begin{bmatrix} x \\ y \\ 1 \end{bmatrix}$$
 ## 逆变换（Inverse Transform）
 $M^{-1}$逆矩阵表示了逆变换
-![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250117002342.png)
+![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250117002342.png)
 
 ## 转换顺序
 1. **先旋转在平移≠先平移再旋转**
-2. 矩阵应用顺序为从右到左![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250117002604.png)
-3. 多个仿射变换时可合并为一个![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250117002749.png)
+2. 矩阵应用顺序为从右到左![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250117002604.png)
+3. 多个仿射变换时可合并为一个![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250117002749.png)
 ## 分解复杂变换
 1. 平移到圆心
 2. 旋转
 3. 平移回去
-![](https://raw.githubusercontent.com/Tang-Paofan/Asset/main/BlogPicture/Pasted%20image%2020250117002940.png)
+![](https://cdn.jsdelivr.net/gh/Tang-Paofan/Asset/BlogPicture/Pasted%20image%2020250117002940.png)
