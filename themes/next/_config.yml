@@ -289,8 +289,16 @@ follow_me:
 # Related popular posts
 # Dependencies: https://github.com/sergeyzwezdin/hexo-related-posts
 related_posts:
-  enable: false
+  enable: true
+  title: # Custom header, leave empty to use the default one
   icon: fa fa-signs-post
+  display_in_home: false
+  params:
+    maxCount: 5
+    #PPMixingRate: 0.0
+    #isDate: false
+    #isImage: false
+    #isExcerpt: false
 
 # Post edit
 # Easily browse and edit blog source code online.
@@ -926,3 +934,12 @@ vendors:
 css: css
 js: js
 images: images
+
+# hexo-tag-cloud
+tag_cloud:
+    textFont: 'Trebuchet MS, Helvetica'
+    textColor: '#333'
+    textHeight: 25
+    outlineColor: '#E2E1D1'
+    maxSpeed: 0.5 # range from [0.01 ~ 1]
+    pauseOnSelected: false # true means pause the cloud tag movement when highlight a tag
