@@ -1,11 +1,12 @@
 ---
 title: QFutureWatcher
 mathjax: false
-date: 2025-04-22 23:15:01
 tags:
- - Qt线程
+  - Qt线程
 categories:
- - Qt
+  - Qt
+abbrlink: 32a5c1d1
+date: 2025-04-22 23:15:01
 ---
 
 ## 概述

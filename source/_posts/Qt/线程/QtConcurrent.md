@@ -1,11 +1,12 @@
 ---
 title: QtConcurrent
 mathjax: false
-date: 2025-04-23 23:16:46
 tags:
- - Qt线程
+  - Qt线程
 categories:
- - Qt
+  - Qt
+abbrlink: e0595a57
+date: 2025-04-23 23:16:46
 ---
 
 ## 概述

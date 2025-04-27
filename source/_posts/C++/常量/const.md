@@ -1,11 +1,12 @@
 ---
 title: const
 mathjax: false
-date: 2025-04-24 20:10:49
 tags:
   - C++ 常量
 categories:
   - C++
+abbrlink: 6ac664ef
+date: 2025-04-24 20:10:49
 ---
 
 ## 概述
