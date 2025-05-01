@@ -1,9 +1,10 @@
 ---
 title: 04 Transformation Cont
 mathjax: true
-date: 2025-04-28 20:40:51
 tags: Games 101
 categories: 图形学
+abbrlink: 66c9c41e
+date: 2025-04-28 20:40:51
 ---
 
 Games 101 笔记 04 Transformation Cont
